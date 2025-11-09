@@ -1,8 +1,9 @@
-streamlit
-pandas
 numpy
+pandas
 scikit-learn
 librosa
 tsfel
-pydub
-streamlit-mic-recorder
+streamlit
+streamlit_mic_recorder
+soundfile
+joblib
